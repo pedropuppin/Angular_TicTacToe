@@ -1,4 +1,4 @@
-# Angular TikTakToe Gmae
+# Angular TicTacToe Game
 
 ** Repositório criado com a finalidade de testar os conhecimentos básicos em angular.
 
